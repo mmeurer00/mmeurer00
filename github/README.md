@@ -10,7 +10,7 @@ My name is Maxine Meurer and I'm a Full-Stack Developer.
  ## Connect with me:
 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://lh3.googleusercontent.com/proxy/9vxDLIICSmwkazx4KYOFyqD6RUTQyXHgHvdGJV__VtLi3DlumhADMyr2huJIk7op9qy39o0LTn6iOJrCdCagNzyuxwROW2j2sNQ8HEg_KIM0KTP52ZlmGQ" />](https://www.linkedin.com/in/maxine-m-b405a4154/)
+[LinkdIn](https://www.linkedin.com/in/maxine-m-b405a4154/)
 
 <br /> 
 
