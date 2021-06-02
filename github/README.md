@@ -9,8 +9,8 @@ My name is Maxine Meurer and I'm a Full-Stack Developer.
 
  ## Connect with me:
 
-[<img align="left" alt="mmeurer00" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/maxine-m-b405a4154/" />][linkedin]
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/maxine-m-b405a4154/)
 
 <br /> 
 
