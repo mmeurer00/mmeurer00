@@ -16,7 +16,6 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer.
 ## Checkout my Latest Blog posts 👇:
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages:
