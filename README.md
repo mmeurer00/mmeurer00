@@ -16,6 +16,10 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer.
 ## Checkout my Latest Blog posts 👇:
 
 <!-- BLOG-POST-LIST:START -->
+- [Parenting vs. Technology](https://dev.to/mmeurer00/parenting-vs-technology-4gi4)
+- [Location.reload()](https://dev.to/mmeurer00/location-reload-a55)
+- [Collection_select](https://dev.to/mmeurer00/collectionselect-596h)
+- [How to Create Following Relationships](https://dev.to/mmeurer00/how-to-follow-along-with-followingrelationships-in-your-app-4chd)
 <!-- BLOG-POST-LIST:END -->
 
 
