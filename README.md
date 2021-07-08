@@ -1,14 +1,14 @@
-#### Hey there 👋
+## Hello 👋
 
-My name is Maxine Meurer and I'm a Full-Stack Web Developer.
+My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and background, in humanitarian and envrionmental studies. I hope to reflect these passions in my code, and what I create. Here's a little about me! 
 
-- 💻 I **love** coding
+💻 I **love** coding
 
-- 📲 I’m currently working on an application for Lower-Level Income Parents. Keep an eye for it.
+📲 I’m currently working on my portfolio, feel free to check it out!
 
-- 🌱 I’m currently learning React.js
+🌱 I’m currently reviewing Python.
 
-- 👯 I’m looking to collaborate on opensource and group projects.
+👯 I’m always looking to collaborate on opensource and group projects.
 
  ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-mmeurer00-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxine-m-b405a4154/)](https://www.linkedin.com/in/maxine-m-b405a4154/) [![DEV Badge](https://img.shields.io/badge/-@mmeurer00-03a57a?style=flat-square&labelColor=000000&logo=DEV&link=https://dev.to/@mmeurer00/)](https://dev.to/mmeurer00/)
@@ -16,12 +16,7 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer.
 ## Checkout my Latest Blog posts 👇:
 
 <!-- BLOG-POST-LIST:START -->
-- [Parenting vs. Technology](https://dev.to/mmeurer00/parenting-vs-technology-4gi4)
-- [Location.reload()](https://dev.to/mmeurer00/location-reload-a55)
-- [Collection_select](https://dev.to/mmeurer00/collectionselect-596h)
-- [How to Create Following Relationships](https://dev.to/mmeurer00/how-to-follow-along-with-followingrelationships-in-your-app-4chd)
 <!-- BLOG-POST-LIST:END -->
-
 
 ## Languages:
 
@@ -33,14 +28,15 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer.
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![RUBY](https://img.shields.io/badge/-RUBY-000000?style=flat&logo=ruby)
-
+![REACT.JS](https://img.shields.io/badge/-REACT.JS-9cf)
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 <!--- ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) --->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
-
+![REDUX](https://img.shields.io/badge/-REDUX-blueviolet)
+![REDUX TOOLKIT](https://img.shields.io/badge/-REDUX%20TOOLKIT-blueviolet)
 <!---## Live Projects--->
 ## Github Overview
 
