@@ -16,7 +16,10 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and 
 ## Checkout my Latest Blog posts 👇:
 
 <!-- BLOG-POST-LIST:START -->
-
+- [What is Redux Toolkit?](https://dev.to/mmeurer00/what-is-redux-toolkit-b94)
+- [JavaScript Proto and Prototype](https://dev.to/mmeurer00/javascript-proto-and-prototype-a2a)
+- [Parenting vs. Technology](https://dev.to/mmeurer00/parenting-vs-technology-4gi4)
+- [Location.reload()](https://dev.to/mmeurer00/location-reload-a55)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages:
