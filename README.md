@@ -33,9 +33,8 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and 
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-<!--- ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) --->
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![REDUX](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
 ![REDUX TOOLKIT](https://img.shields.io/badge/-ReduxToolkit-000000?style=flat&logo=redux)
 <!---## Live Projects--->
