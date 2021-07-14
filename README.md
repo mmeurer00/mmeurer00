@@ -16,7 +16,7 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and 
 ## Checkout my Latest Blog posts 👇:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your First Github Contribution](https://dev.to/mmeurer00/how-to-make-your-first-github-contribution-2fm4)
+- [How to Make an Open Source Github Contribution](https://dev.to/mmeurer00/how-to-make-your-first-github-contribution-2fm4)
 - [How to add Redux Toolkit to a React-Redux application](https://dev.to/mmeurer00/how-to-add-redux-toolkit-to-a-react-redux-application-i9f)
 - [What is Redux Toolkit?](https://dev.to/mmeurer00/what-is-redux-toolkit-b94)
 - [JavaScript Proto and Prototype](https://dev.to/mmeurer00/javascript-proto-and-prototype-a2a)
