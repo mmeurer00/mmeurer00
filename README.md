@@ -4,7 +4,7 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and 
 
 💻 I **love** coding
 
-📲 I’m currently working on a JavaScript Game! But, check out Merge Me, and opensource repository I made that allows new programmers to practice making their first opensource contribution.
+📲 I’m currently working on a JavaScript Game! But, check out [Merge Me](https://github.com/mmeurer00/mergeMe), and opensource repository I made that allows new programmers to practice making their first opensource contribution. You can check out the Github hosted page [here](https://mmeurer00.github.io/mergeMe/).
 
 🌱 I’m currently learning C++.
 
@@ -16,10 +16,7 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and 
 ## Checkout my Latest Blog posts 👇:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make an Open Source Github Contribution](https://dev.to/mmeurer00/how-to-make-your-first-github-contribution-2fm4)
-- [How to add Redux Toolkit to a React-Redux application](https://dev.to/mmeurer00/how-to-add-redux-toolkit-to-a-react-redux-application-i9f)
-- [What is Redux Toolkit?](https://dev.to/mmeurer00/what-is-redux-toolkit-b94)
-- [JavaScript Proto and Prototype](https://dev.to/mmeurer00/javascript-proto-and-prototype-a2a)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages:
