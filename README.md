@@ -11,7 +11,7 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and 
 👯 I’m always looking to collaborate on opensource and group projects.
 
  ## Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-mmeurer00-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxine-m-b405a4154/)](https://www.linkedin.com/in/maxine-m-b405a4154/) [![DEV Badge](https://img.shields.io/badge/-@mmeurer00-03a57a?style=flat-square&labelColor=000000&logo=DEV&link=https://dev.to/@mmeurer00/)](https://dev.to/mmeurer00/)
+[![Linkedin Badge](https://img.shields.io/badge/-mmeurer00-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxine-m-b405a4154/)](https://www.linkedin.com/in/maxinemeurer/) [![DEV Badge](https://img.shields.io/badge/-@mmeurer00-03a57a?style=flat-square&labelColor=000000&logo=DEV&link=https://dev.to/@mmeurer00/)](https://dev.to/mmeurer00/)
 
 ## Checkout my Latest Blog posts 👇:
 
