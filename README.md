@@ -4,7 +4,7 @@ A Full-Stack Web Developer with a passionate background in humanitarian and envr
 
 💻 I **love** coding
 
-📲 I’m currently working on a Cryptocurrency App! But, check out my portfolio [here](https://www.mmeurer00.github.io)!
+📲 I’m currently working on a Crypto-currency App! But, check out my portfolio [here](https://www.mmeurer00.github.io)!
 
 🌱 I’m currently learning scraping methods.
 
