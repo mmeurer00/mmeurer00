@@ -1,6 +1,5 @@
-## Hello 👋
-
-My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and background, in humanitarian and envrionmental studies. I hope to reflect these passions in my code, and what I create. Here's a little about me! 
+## Hello, I'm Maxine, 👋
+a Full-Stack Web Developer with a passion, and background, in humanitarian and envrionmental studies. I hope to reflect these passions in my code, and what I create. Here's a little about me! 
 
 💻 I **love** coding
 
