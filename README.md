@@ -4,9 +4,9 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and 
 
 💻 I **love** coding
 
-📲 I’m currently working on a JavaScript Game! But, check out [Merge Me](https://github.com/mmeurer00/mergeMe), and opensource repository I made that allows new programmers to practice making their first opensource contribution. You can check out the Github hosted page [here](https://mmeurer00.github.io/mergeMe/).
+📲 I’m currently working on a Cryptocurrency App! But, check out my portfolio [here](https://www.mmeurer00.github.io)!
 
-🌱 I’m currently learning C++.
+🌱 I’m currently learning scraping methods.
 
 👯 I’m always looking to collaborate on opensource and group projects.
 
