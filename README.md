@@ -16,10 +16,7 @@ My name is Maxine Meurer and I'm a Full-Stack Web Developer with a passion, and 
 ## Checkout my Latest Blog posts 👇:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are React Hooks?](https://dev.to/mmeurer00/what-are-react-hooks-5031)
-- [What is LaTeX and Why Should You Use it?](https://dev.to/mmeurer00/what-is-latex-and-why-you-should-use-it-pd5)
-- [How to Make an Open Source Github Contribution](https://dev.to/mmeurer00/how-to-make-your-first-github-contribution-2fm4)
-- [How to add Redux Toolkit to a React-Redux application](https://dev.to/mmeurer00/how-to-add-redux-toolkit-to-a-react-redux-application-i9f)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages:
