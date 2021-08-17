@@ -16,7 +16,7 @@ A Full-Stack Web Developer with a passionate background in humanitarian and envr
 ## Checkout my Latest Blog posts 👇:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to be an Environmentally Aware Software Engineer ♻️](https://dev.to/mmeurer00/how-to-be-an-environmentally-aware-software-engineer-52ij)
+- [How to be an Environmentally Aware Software Engineer with Green Code & more ♻️](https://dev.to/mmeurer00/how-to-be-an-environmentally-aware-software-engineer-52ij)
 - [What are React Hooks?](https://dev.to/mmeurer00/what-are-react-hooks-5031)
 - [What is LaTeX and Why Should You Use it?](https://dev.to/mmeurer00/what-is-latex-and-why-you-should-use-it-pd5)
 - [How to Make an Open Source Github Contribution](https://dev.to/mmeurer00/how-to-make-your-first-github-contribution-2fm4)
