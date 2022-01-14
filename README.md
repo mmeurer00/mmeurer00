@@ -16,7 +16,7 @@ A Full-Stack Web Developer with a passionate background in humanitarian and envr
 ## Checkout my Latest Blog posts 👇:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a NodeJS Lambda Update Function with AWS Amplify CLI](https://dev.to/mmeurer00/create-a-nodejs-update-lambda-function-with-aws-amplify-cli-2b9e)
+- [How to Update a DynamoDB Item using NodeJS with AWS Lambda and Amplify CLI](https://dev.to/mmeurer00/create-a-nodejs-update-lambda-function-with-aws-amplify-cli-2b9e)
 - [How to Intergrate Chakra UI in Next.js 🧑‍🎨](https://dev.to/mmeurer00/how-to-intergrate-chakra-ui-in-nextjs-ocm)
 - [How to Seed Data Fast with the Faker Gem ⚡️🏃🏻💨](https://dev.to/mmeurer00/seed-data-fast-with-the-faker-gem-nej)
 - [How to Create a 3D Cube in ReactJS 🧊](https://dev.to/mmeurer00/how-to-create-a-3d-cube-in-reactjs-1ej7)
