@@ -1,5 +1,5 @@
 
-<img align="center" src="[img]https://i.imgur.com/AMt6LcV.png"></img>
+<img align="center" src="https://i.imgur.com/AMt6LcV.png"></img>
 
 A Full-Stack Web Developer with a passionate background in humanitarian and envrionmental studies. I hope to reflect these passions in my code, and what I create. Here's a little about me! 
 
