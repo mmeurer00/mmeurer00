@@ -7,7 +7,7 @@ A Full-Stack Web Developer with a passionate background in humanitarian and envr
 
 📲 Check out my portfolio [here](https://mmeurer00.github.io)!
 
-🌱 I’m currently learning scraping methods.
+🌱 I’m currently learning devops and AWS.
 
 👯 I’m always looking to collaborate on opensource and group projects.
 
