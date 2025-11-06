@@ -40,7 +40,6 @@ A Full-Stack Web Developer with a passionate background in humanitarian and envr
 ![REDUX](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
 ![REDUX TOOLKIT](https://img.shields.io/badge/-ReduxToolkit-000000?style=flat&logo=redux)
 <!---## Live Projects--->
-## Github Overview
 
-<img align="left" alt="mmeurer00's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mmeurer00&show_icons=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmeurer00)](https://github.com/anuraghazra/github-readme-stats) 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmeurer00&" alt="mmeurer00" />
+<!-- <img align="left" alt="mmeurer00's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mmeurer00&show_icons=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmeurer00)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmeurer00&" alt="mmeurer00" /> -->
