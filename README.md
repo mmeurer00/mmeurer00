@@ -1,9 +1,7 @@
 
 <img align="center" src="https://i.imgur.com/AMt6LcV.png"></img>
 
-A Full-Stack Web Developer with a passionate background in humanitarian and envrionmental studies. I hope to reflect these passions in my code, and what I create. Here's a little about me! 
-
-💻 I **love** coding
+A full-Stack developer turned into a devops engineer with a passionate background in humanitarian and envrionmental studies. I hope to reflect these passions in my code, and what I create. Here's a little about me! 
 
 🌱 I’m currently working as a devops engineer.
 
@@ -11,15 +9,6 @@ A Full-Stack Web Developer with a passionate background in humanitarian and envr
 
  ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-mmeurer00-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxine-m-b405a4154/)](https://www.linkedin.com/in/maxinemeurer/) [![DEV Badge](https://img.shields.io/badge/-@mmeurer00-03a57a?style=flat-square&labelColor=000000&logo=DEV&link=https://dev.to/@mmeurer00/)](https://dev.to/mmeurer00/)
-
-## Checkout my Latest Blog posts 👇:
-
-<!-- BLOG-POST-LIST:START -->
-- [Stop Struggling with Merging Branches and Use these Git Commands instead](https://dev.to/mmeurer00/stop-struggling-with-merging-branches-and-use-these-git-commands-instead-1g1p)
-- [Like my tutorials? Here’s some more!⤵️](https://dev.to/mmeurer00/if-you-like-my-writing-heres-some-more-1hoo)
-- [How to Update a DynamoDB Item using NodeJS with AWS Lambda and Amplify CLI](https://dev.to/mmeurer00/create-a-nodejs-update-lambda-function-with-aws-amplify-cli-2b9e)
-- [How to Intergrate Chakra UI in Next.js 🧑‍🎨](https://dev.to/mmeurer00/how-to-intergrate-chakra-ui-in-nextjs-ocm)
-<!-- BLOG-POST-LIST:END -->
 
 ## Languages:
 
